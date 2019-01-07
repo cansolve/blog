@@ -1,0 +1,61 @@
+# links
+Vue:
+  link: https://vue.docschina.org/
+  avatar: /images/links/vue.svg
+  desc: 渐进式 JavaScript 框架
+React:
+  link: https://react.docschina.org/
+  avatar: /images/links/react-16ed83.svg
+  desc: 创建大型的 JavaScript 应用程序 
+Webpack:
+  link: https://webpack.docschina.org/
+  avatar: /images/links/webpack.svg
+  desc: 前端资源打包工具
+Parcle:
+  link: https://parceljs.docschina.org/
+  avatar: /images/links/parcel-61ddae.png
+  desc: 零配置打包工具
+Mobx:
+  link: https://cn.mobx.js.org/
+  avatar: /images/links/mobx-1e58fc.png
+  desc: 简单、可扩展的状态管理
+Babel:
+  link: https://babel.docschina.org/
+  avatar: /images/links/babel-6e8c09.png
+  desc: 下一代 JavaScript 
+Node.js:
+  link: http://nodejs.cn/
+  avatar: /images/links/node-a2d399.svg
+  desc: 基于 V8 引擎的 JS 运行环境 
+ECMAScript:
+  link: https://ecma262.docschina.org/
+  avatar: /images/links/ecma-75c07d.svg 
+  desc: ECMAScript 2018 标准 
+React-Router:
+  link: https://react-router.docschina.org/
+  avatar: /images/links/react-router-d7396d.svg
+  desc: 官方维护的路由库
+Koa:
+  link: https://koajs.docschina.org/
+  avatar: /images/links/koa-f64b48.svg
+  desc: 新一代的 Web 后台框架
+Sass:
+  link: https://sass-guidelin.es/zh/
+  avatar: /images/links/sass-b446ca.svg
+  desc: css预处理语言
+ECharts:
+  link: http://nodejs.cn/
+  avatar: /images/links/echarts-904a59.png
+  desc: 百度 - 使用 JavaScript 实现的开源可视化库 
+Lodash:
+  link: http://lodash.think2011.net/
+  avatar: /images/links/lodash.svg
+  desc: 一个现代的 JavaScript 工具库
+Chimee:
+  link: http://chimee.org/
+  avatar: /images/links/node-a2d399.svg
+  desc: 360奇舞团视频云研发的视频播放器
+印记中文周刊:
+  link: https://weekly.docschina.org/
+  avatar: /images/links/logo-b98a72.png
+  desc: 很棒的翻译团队，不解释，追 

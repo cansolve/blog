@@ -4,7 +4,7 @@ date: 2019-1-2 21:06:28
 tags: 其他
 categories: 个人
 ---
-
+    
 ### 解决使用 swiper 常见的问题
 **1、swiper近视初始化时, 其父级元素处于隐藏状态(display:none),会导致swiper初始化失败, 页面中的滚动效果有问题**
 ```
@@ -136,4 +136,10 @@ $(function (){
 **3、哈哈哈哈，后台解决**
 麻烦以下后端小伙伴帮忙处理以下
 
+### mac中隐藏文件的现实与关闭
+```
+defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder //显示mac中隐藏文件
+defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder //关闭mac中隐藏文件
+
+```
 后续继续整理
